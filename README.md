@@ -27,6 +27,8 @@ Welcome to my GitHub profile! I am a dedicated software developer passionate abo
   - ![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=NestJS)
   - ![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
   - ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
+  - ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-000?&logo=Redux)
+  - ![Redux Saga](https://img.shields.io/badge/-Redux_Saga-000?&logo=Redux)
 
 - **Databases:**
   - ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
