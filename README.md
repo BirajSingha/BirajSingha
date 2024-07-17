@@ -69,7 +69,7 @@ Welcome to my GitHub profile! I am a dedicated software developer passionate abo
 #### 🎓 **Education**
 
 - **BCA**
-  - Guahati University, 2021
+  - Gauhati University, 2021
   - Relevant coursework: ADCA
 
 ---
@@ -92,6 +92,5 @@ Welcome to my GitHub profile! I am a dedicated software developer passionate abo
 If you enjoy my work and would like to support me, you can [buy me a coffee](https://www.buymeacoffee.com/your-username). Your support is greatly appreciated!
 
 ---
-
 
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me. Let's collaborate and build something amazing together!
