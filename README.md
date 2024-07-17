@@ -41,20 +41,26 @@ Welcome to my GitHub profile! I am a dedicated software developer passionate abo
 
 ---
 
-#### 🌟 **Projects**
+#### 🌟 **Live Projects**
 
-- **MyAurora(https://github.com/your-username/my-aurora)**: A property inspection app allowing inspectors to record details on-site and generate reports for admin review and approval.
-- **CachedImage(https://github.com/your-username/cached-image)**: An image loading component that stores images in async storage to optimize load times by retrieving images from local storage instead of an API.
+- **Prag News**: A comprehensive news app designed to provide users with access to the latest updates and information from around the world. Features include multi-language support, live TV, and categorized news content.
+- **TechDisciples**: A job portal app designed to empower both employers and job seekers with intuitive features such as dual portals, job posting, job search, one-on-one chat, and job post sharing.
+- **E-Tasker**: A versatile app designed to streamline task management, service acquisition, and product purchases. Features include task posting, service and product marketplaces, offer placement and acceptance, and deal-making.
+- **TeamSink**: A sports community platform offering features for team creation, referee management, match reviews, and personalized profiles with timely notifications.
 
 ---
 
 #### 📈 **Experience**
 
-- **Application Developer** at Webskitters Technology Solutions Pvt. Ltd.
-
-- **Application Developer** at Prag News
- 
-- **Application Developer** at Otechnix
+- **Application Developer** at Webskitters Technology Solutions Pvt. Ltd. (Mar'23 - Present)
+  - Created and deployed several applications successfully.
+  - Worked closely with clients to comprehend needs, get input, and ensure alignment with project goals.
+  
+- **Application Developer** at Prag News (Aug'22 - Feb'23)
+  - Developed a multilingual news app with a live TV option to improve user interaction and make real-time news material more accessible.
+  
+- **Web Developer** at Otechnix (Dec'21 - Jul'22)
+  - Designed and constructed a comprehensive hotel management project with cross-platform compatibility using React Native.
 
 ---
 
