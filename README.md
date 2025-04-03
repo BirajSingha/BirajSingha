@@ -77,19 +77,7 @@ Welcome to my GitHub profile! I am a dedicated software developer passionate abo
 #### 📫 **Get in Touch**
 
 - **Email:** [singhabiraj302@gmail.com](mailto:singhabiraj302@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://in.linkedin.com/in/biraj-singha)
-
----
-
-#### 🌐 **GitHub Stats**
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=birajsingha&show_icons=true&theme=radical)
-
----
-
-#### ☕ **Buy Me a Coffee**
-
-If you enjoy my work and would like to support me, you can [buy me a coffee](https://www.buymeacoffee.com/your-username). Your support is greatly appreciated!
+- **LinkedIn:** [https://in.linkedin.com/in/biraj-singha](https://in.linkedin.com/in/biraj-singha)
 
 ---
 
